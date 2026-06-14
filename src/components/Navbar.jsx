@@ -46,7 +46,7 @@ const Navbar = () => {
       
     </ul>
   </div>
-   <div className="navbar-end flex gap-3">
+   <div className="navbar-end flex gap-4">
     {!user && <div> <Link href='/signin' className="btn bg-pink-400 text-white">Login</Link>
     <Link href='/signup' className="btn bg-pink-600 text-white">Register</Link></div>}
 
