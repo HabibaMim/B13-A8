@@ -33,7 +33,7 @@ const SignUpPage = () => {
   }
 
   if(!error){
-    router.push('/signin')
+    router.push('/')
   }
 
     alert("Registration successful!");
