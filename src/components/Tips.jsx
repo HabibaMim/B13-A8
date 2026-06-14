@@ -34,7 +34,7 @@ const Tips = () => {
     </Card>
     <Card>
 <ul>
-  <li className='text-[25px] text-pink-400 font-semibold'>❄️Keep Yourself Cool </li>
+  <li className='text-[25px] text-pink-400 font-semibold'>❄️Keep Yourself Cool</li>
   <li>• Wear lightweight and breathable clothes.</li>
   <li>• Use fans, cooling products, or cold towels when needed.</li>
   <li>• Avoid staying under direct sunlight for long periods.</li>
