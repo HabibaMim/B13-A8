@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Summer Travel Backpack",
+    "brand": "TravelEase",
+    "price": 35,
+    "rating": 4.8,
+    "stock": 25,
+    "description": "Lightweight and spacious summer travel backpack designed for trips, outdoor adventures, and daily use.",
+    "image": "https://m.media-amazon.com/images/I/71ZnU2li9AL._AC_UY1000_.jpg",
+    "category": "Travel"
+  },
+  {
+    "id": 2,
+    "name": "Comfortable Summer Sandals",
+    "brand": "WalkComfort",
+    "price": 22,
+    "rating": 4.6,
+    "stock": 40,
+    "description": "Soft and comfortable summer sandals perfect for walking, vacations, and warm weather activities.",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/7387a8364daaa9f536ae689df8cdb295.jpg_720x720q80.jpg",
+    "category": "Footwear"
+  },
+  {
+    "id": 3,
+    "name": "Portable Mini Cooling Fan",
+    "brand": "CoolBreeze",
+    "price": 18,
+    "rating": 4.5,
+    "stock": 50,
+    "description": "Compact rechargeable mini cooling fan that provides refreshing airflow anywhere during summer.",
+    "image": "https://smartdeal.com.bd/public/uploads/all/QoJR2Gh4IRpw6lJQVuk6S4txLcmRAdv4LtXaox3D.jpg",
+    "category": "Cooling"
+  },
+  {
+    "id": 4,
+    "name": "Luxurious Cooling Pillow",
+    "brand": "SleepFresh",
+    "price": 45,
+    "rating": 4.9,
+    "stock": 15,
+    "description": "Premium cooling pillow designed for comfortable and relaxing sleep during hot summer nights.",
+    "image": "https://m.media-amazon.com/images/I/71PrZtUjo2L.jpg",
+    "category": "Home"
+  },
+  {
+    "id": 5,
+    "name": "UV Protection Umbrella",
+    "brand": "SunGuard",
+    "price": 20,
+    "rating": 4.7,
+    "stock": 30,
+    "description": "Stylish UV protection umbrella that helps block strong sunlight during outdoor activities.",
+    "image": "https://media.istockphoto.com/id/936342386/photo/yellow-umbrella-with-bright-sun-and-blue-sky.jpg?s=612x612&w=0&k=20&c=zgoDpVvGJ6fzOFLJsLIJqCDZXdN7JuW-HkRAVSYH2S8=",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "name": "Portable Mist Spray Fan",
+    "brand": "FreshAir",
+    "price": 25,
+    "rating": 4.6,
+    "stock": 35,
+    "description": "Portable mist spray fan combining cooling air and refreshing mist for hot summer days.",
+    "image": "https://i5.walmartimages.com/asr/b52a912c-05a7-450e-8d55-b05970fa6523.e39bb1dd201e8477ba21722d7207d4da.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "category": "Cooling"
+  },
+  {
+    "id": 7,
+    "name": "Reusable Ice Cooling Pack",
+    "brand": "IceRelief",
+    "price": 12,
+    "rating": 4.4,
+    "stock": 60,
+    "description": "Reusable ice cooling pack ideal for quick cooling and summer comfort.",
+    "image": "https://m.media-amazon.com/images/I/61BPb7LYeML.jpg",
+    "category": "Cooling"
+  },
+  {
+    "id": 8,
+    "name": "SPF Summer Protection Sunscreen",
+    "brand": "SunCare",
+    "price": 16,
+    "rating": 4.8,
+    "stock": 45,
+    "description": "Lightweight SPF sunscreen providing summer skin protection for outdoor activities.",
+    "image": "https://naturepurewellness.in/cdn/shop/files/1.png?v=1760785911",
+    "category": "Skincare"
+  },
+  {
+    "id": 9,
+    "name": "Summer Outdoor Picnic Mat",
+    "brand": "NatureComfort",
+    "price": 28,
+    "rating": 4.7,
+    "stock": 20,
+    "description": "Water-resistant outdoor picnic mat perfect for summer picnics and relaxing outdoor moments.",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/9d25b0cae856fed78bd34ea360f07428.jpg_720x720q80.jpg",
+    "category": "Outdoor"
+  }
+]

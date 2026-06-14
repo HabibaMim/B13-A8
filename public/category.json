@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Travel",
+    "slug": "travel"
+  },
+  {
+    "id": 2,
+    "name": "Footwear",
+    "slug": "footwear"
+  },
+  {
+    "id": 3,
+    "name": "Cooling",
+    "slug": "cooling"
+  },
+  {
+    "id": 4,
+    "name": "Home",
+    "slug": "home"
+  },
+  {
+    "id": 5,
+    "name": "Accessories",
+    "slug": "accessories"
+  },
+  {
+    "id": 6,
+    "name": "Skincare",
+    "slug": "skincare"
+  },
+  {
+    "id": 7,
+    "name": "Outdoor",
+    "slug": "outdoor"
+  }
+]
