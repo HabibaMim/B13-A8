@@ -12,7 +12,7 @@ const TopGenerations = () => {
             <h1 className='text-[35px] font-bold'>Popular Products</h1>
             <Link href="/products" className='flex items-center gap-[7px]'>View All Products<FaArrowAltCircleRight /></Link>
             </div>
-            <div className='flex justify-between mt-[20px] mb-[50px]'>
+            <div className='lg:flex  grid md:grid-cols-2 grid-cols-1 justify-between mt-[20px] mb-[50px]'>
                 {topPhotos.map(photo => <Photocard key={photo.id} photo={photo}></Photocard>)}
                 
                 </div>

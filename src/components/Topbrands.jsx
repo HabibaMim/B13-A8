@@ -10,7 +10,7 @@ const Topbrands = () => {
     return (
         <div className=' p-[25px] mb-[50px] mt-[50px]'>
             <p className='text-[35px] font-bold pb-[15px]'>Top Brands</p>
-            <div className='flex justify-between items-center '>
+            <div className='lg:flex  grid md:grid-cols-3 grid-cols-2  justify-between items-center '>
             <Image className='bg-pink-300 rounded-lg ' src={image1} h={200} width={200} alt="b1"></Image>
             <Image className='bg-pink-300 rounded-lg ' src={image3} h={200} width={200} alt="b1"></Image>
             <Image className='bg-pink-300 rounded-lg ' src={image2} h={200} width={200} alt="b1"></Image>

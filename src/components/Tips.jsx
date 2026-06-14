@@ -5,7 +5,7 @@ const Tips = () => {
     return (
         <div className='bg-pink-200 rounded-2xl mt-[90px]'>
             <p className='text-[35px] font-bold pt-[30px] flex justify-center'>Summer Care Tips</p>
-        <div className='grid grid-cols-3 gap-[40px] p-[30px]'>
+        <div className='grid md:grid-cols-3 grid-cols-1 gap-[40px] p-[30px]'>
                         <Card>
             <ul>
   <li className='text-[25px] text-pink-400 font-semibold'>💧Stay Hydrated</li>
