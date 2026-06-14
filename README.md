@@ -30,7 +30,7 @@ An eCommerce site focused on summer related items with registration and login fe
 
 <div align="center">
 
-### 🎨 Frontend
+
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
@@ -38,12 +38,12 @@ An eCommerce site focused on summer related items with registration and login fe
 
 <br/>
 
-### 🗄️ Backend / Database
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<br/>
 
-### 🔐 Authentication
+
+
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-6366F1?style=for-the-badge&logo=auth0&logoColor=white)
 
 </div>
