@@ -4,8 +4,8 @@ An eCommerce site focused on summer related items with registration and login fe
 
 ---
 
-## 🔗 Live URL
-https://suncart-six-tan.vercel.app/
+## 🚀 Live Project
+🔗 https://suncart-six-tan.vercel.app/
 
 ---
 
@@ -20,15 +20,15 @@ https://suncart-six-tan.vercel.app/
 
 ## 📦 npm Packages Used
 
-- 🔑 better-auth  
-- 🎯 react-icons  
-- ✨ animate.css  
+🔑 better-auth  
+🎯 react-icons  
+✨ animate.css  
 
 ---
 
 ## 🧱 Tech Stack
 
-## 🧱 Tech Stack
+<div align="center">
 
 ### 🎨 Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -36,10 +36,16 @@ https://suncart-six-tan.vercel.app/
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![HeroUI](https://img.shields.io/badge/HeroUI-111827?style=for-the-badge&logo=react&logoColor=white)
 
-### 🗄️ Database
+<br/>
+
+### 🗄️ Backend / Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br/>
 
 ### 🔐 Authentication
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-6366F1?style=for-the-badge&logo=auth0&logoColor=white)
+
+</div>
 
 ---
