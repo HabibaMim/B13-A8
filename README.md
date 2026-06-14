@@ -11,28 +11,31 @@ https://suncart-six-tan.vercel.app/
 
 ## ✨ Key Features
 
-1. Registration and login in the website using BetterAuth authentication.  
-2. A personal profile section of the user and avatar of the user displayed in navbar after logging in.  
-3. Product details page protected from non-users and available for viewing only for authentic users.  
-4. Securely managed configuration keys using environment variables.  
+🔐 Registration and login in the website using BetterAuth authentication.  
+👤 A personal profile section of the user and avatar of the user displayed in navbar after logging in.  
+🔒 Product details page protected from non-users and available for viewing only for authentic users.  
+🌐 Securely managed configuration keys using environment variables.  
 
 ---
 
-## 📦 npm packages used
+## 📦 npm Packages Used
 
-- better-auth  
-- react-icons  
-- animate.css  
+- 🔑 better-auth  
+- 🎯 react-icons  
+- ✨ animate.css  
 
 ---
 
 ## 🧱 Tech Stack
 
-- Next.js  
-- Tailwind CSS  
-- MongoDB  
-- DaisyUI  
-- HeroUI  
-- BetterAuth(Authentication)
+### 🎨 Frontend
+⚛️ Next.js  
+🎨 Tailwind CSS  
+🧩 DaisyUI  
+🧿 HeroUI  
 
----
+### 🗄️ Backend / Database
+- 🍃 MongoDB  
+
+### 🔐 Authentication
+- 🔑 BetterAuth  
