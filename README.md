@@ -33,8 +33,9 @@ An eCommerce site focused on summer related items with registration and login fe
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HeroUI](https://img.shields.io/badge/HeroUI-111827?style=for-the-badge&logo=react&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 <br/>
 
