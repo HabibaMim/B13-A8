@@ -32,7 +32,7 @@ const Navbar = () => {
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
          <li><Link href="/" className='text-pink-800 font-semibold text-[20px]'>Home</Link></li>
     <li><Link href="/products" className='text-pink-800 font-semibold text-[20px]'>Products</Link></li>
-    <li><Link href="/" className='text-pink-800 font-semibold text-[20px]'>My Profile</Link></li>
+    <li><Link href="/my-profile" className='text-pink-800 font-semibold text-[20px]'>My Profile</Link></li>
       </ul>
     </div>
     <Image src={logo} alt="logo" className='h-20 w-38'></Image>
