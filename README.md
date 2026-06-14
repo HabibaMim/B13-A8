@@ -40,10 +40,6 @@ An eCommerce site focused on summer related items with registration and login fe
 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-
-
-
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-6366F1?style=for-the-badge&logo=auth0&logoColor=white)
 
 </div>
