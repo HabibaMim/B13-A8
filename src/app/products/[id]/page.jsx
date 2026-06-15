@@ -9,7 +9,7 @@ const PhotoDetailsPage = async ({params}) => {
     
     return (
         <div className='mx-auto'>
-          <div className="mx-auto mt-[40px] mb-[40px] rounded-lg flex items-start bg-base-100 shadow-sm bg-gradient-to-r from-pink-100 to-pink-300">
+          <div className="mx-auto mt-[40px] mb-[40px] rounded-lg grid grid-cols-1 lg:flex items-start bg-base-100 shadow-sm bg-gradient-to-r from-pink-100 to-pink-300">
   <figure className=' m-[40px] '>
     <img  src={photo.image} alt="image" className="rounded-lg aspect-square h-[400px] object-cover" />
   </figure>
